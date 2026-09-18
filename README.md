@@ -82,4 +82,4 @@ Then open any notebook in Jupyter or PyCharm.
 Datasets used in these projects come from public sources (Kaggle, UCI, and the NBA Stats API). Raw data files may not be included directly in this repo due to size; see each notebook for the original source and loading instructions.
 
 ## 📬 Contact
-Recent graduate seeking Data Analyst roles. Feel free to reach out via [LinkedIn](www.linkedin.com/in/adron-allen04) or [email](allenadron3@gmail.com).
+Recent graduate seeking Data Analyst roles. Feel free to reach out via www.linkedin.com/in/adron-allen04 or allenadron3@gmail.com .
